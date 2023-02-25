@@ -1,0 +1,54 @@
+body{
+
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.imagen {
+    width: 150px;
+    border: 1px;
+    border-radius: 5px;
+    padding: 17px;
+    position: absolute;
+    top: 23%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.h1 {
+    text-align: center;
+    color: goldenrod;
+}
+
+.login {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 17px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.p1 {
+    text-align: center;
+    color: goldenrod;
+}
+
+.p2 {
+    text-align: center;
+    color: goldenrod;
+}
+
+.boton1 {
+    background-color: red;
+    color: goldenrod;
+}
+
+.boton2 {
+    background-color: red;
+    color: goldenrod;
+}
